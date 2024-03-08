@@ -3,7 +3,7 @@
 const http = require('http');
 
 http.createServer(function(req, res) {
-res.write(". It's actually March 6th now and this is pulling down to my DigitalOcean server. PPNorCal Employee Database and web application. It's a full stack application");
+res.write(" The time is March 7th . Just worked with Fang and Lee and working on his new Laptop. PPNorCal Employee Database and web application. It's a full stack application");
 	res.end();
 
 	
