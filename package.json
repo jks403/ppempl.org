@@ -4,6 +4,7 @@
   "description": "planned parenthood employees application",
   "main": "app.js",
   "scripts": {
+    "build": "node --max-old-space-size=800 node_modules/nuxt/bin/nuxt.js build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "joshua stewart",

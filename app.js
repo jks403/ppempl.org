@@ -3,7 +3,7 @@
 const http = require('http');
 
 http.createServer(function(req, res) {
-res.write(" The time is March 7th . 9:51 pm . Just worked with the alarm monitor and armed the doorp. PPNorCal Employee Database and web application. It's a full stack application");
+res.write(" The time is March 11th 10:49 pm. Just did 4 monitor installs and checked serial numbers . PPNorCal Employee Database and web application. It's a full stack application");
 	res.end();
 
 	
